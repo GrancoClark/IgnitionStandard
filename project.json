@@ -1,0 +1,7 @@
+{
+  "title": "Extrusion Process Control",
+  "description": "This is the main project/application to run in the extrusion process area",
+  "parent": "",
+  "enabled": true,
+  "inheritable": false
+}

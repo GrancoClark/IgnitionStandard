@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "props.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "jeff.ryan@grancoclark.com",
+      "timestamp": "2021-06-29T19:34:42Z"
+    },
+    "lastModificationSignature": "972b524892e278f1f0f8fcd4ec5f8a2c2e0b6c133a33e37bdfb7fdaf3c81abb4"
+  }
+}

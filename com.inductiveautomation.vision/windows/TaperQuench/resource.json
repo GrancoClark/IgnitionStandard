@@ -1,0 +1,17 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "jeff.ryan@grancoclark.com",
+      "timestamp": "2021-06-28T17:45:36Z"
+    },
+    "xml-format-version": 1,
+    "lastModificationSignature": "c9b5d99a3e0d3251cef50a8ccceb680a1540970ca485a16d4c44c78b5ee3d601"
+  }
+}
